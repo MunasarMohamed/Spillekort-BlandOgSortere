@@ -1,2 +1,2 @@
-Et program som blandere et sæt kort og derefter sortere dem.
+Et program som blander et sæt kort og derefter sorter dem.
 Skrevet i C.
